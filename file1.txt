@@ -2,5 +2,10 @@ Hello S-Vyasa
 Let study DevOps
 Namaste
 Devops
+<<<<<<< HEAD
 Last Line
 hello
+=======
+Last Line
+>>>>>>> parent of 80d28f8 (Revert "Updated")
+good morning
