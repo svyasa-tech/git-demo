@@ -2,8 +2,8 @@
 #include<conio.h>
 int main()
 {
-int a,b,c;
-printf("Svyasa");
+printf("Welcome to S-Vyasa\n");
+printf("School of CSA\n");
 printf("Hello");
 return 0;
 }
