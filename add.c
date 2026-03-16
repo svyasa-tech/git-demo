@@ -1,9 +1,7 @@
-#include<stdio.h>
-#include<conio.h>
-int main()
-{
-printf("Welcome to S-Vyasa\n");
-printf("School of CSA\n");
-printf("Hello");
-return 0;
+#include <stdio.h>
+
+int main() {
+    int a = 5, b = 3;
+    printf("Sum = %d\n", a + b);
+    return 0;
 }
